@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.Android_java_Tab_menu_slide_more" parent="Base.Theme.Android_java_Tab_menu_slide_more" />
+    <style name="AppTheme.TabLayout" parent="Widget.MaterialComponents.TabLayout">
+        <item name="android:radius">300dp</item>
+    </style>
 </resources>
