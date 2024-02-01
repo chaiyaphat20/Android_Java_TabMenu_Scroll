@@ -11,6 +11,7 @@
         app:tabMinWidth="100dp"
         style="@style/AppTheme.TabLayout"
         android:id="@+id/tabLayout_id"
+        app:tabIndicator="@drawable/indicator_shape"
         android:layout_width="match_parent"
         android:layout_height="60dp"
         app:tabGravity="fill"
